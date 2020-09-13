@@ -1,26 +1,26 @@
 {
-  "name": "@copy-paste/loading",
-  "version": "1.0.0",
-  "description": "vue loading",
-  "main": "lib/index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pipat2468/copy-paste-loading.git"
-  },
-  "keywords": [
-    "vue",
-    "loading"
-  ],
-  "author": "test author <pipat_246@hotmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pipat2468/copy-paste-loading/issues"
-  },
-  "homepage": "https://github.com/pipat2468/copy-paste-loading#readme"
+    "name": "@copy-paste/loading",
+    "version": "1.0.0",
+    "description": "vue loading",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pipat2468/copy-paste-loading.git"
+    },
+    "keywords": [
+        "vue",
+        "loading"
+    ],
+    "author": "test author <pipat_246@hotmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/pipat2468/copy-paste-loading/issues"
+    },
+    "homepage": "https://github.com/pipat2468/copy-paste-loading#readme"
 }

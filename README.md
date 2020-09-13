@@ -1,7 +1,7 @@
 # Other
 
-> <a href="https://github.com/pipat2468/copy-paste-validate">validate</a> with Vue.js
-> <a href="https://github.com/pipat2468/copy-paste-grid">grid</a> with Vue.js
+> <a href="https://github.com/pipat2468/copy-paste-validate">validate</a> with Vue.js\
+> <a href="https://github.com/pipat2468/copy-paste-grid">grid</a> with Vue.js\
 
 ## Development
 
